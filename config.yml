@@ -1,0 +1,29 @@
+.env:
+  algorithm: 'NSA' # or 'VNSA'
+  nsa_seeds: [ 3779, 7793, 9311 ] #[197, 311, 337, 719, 733, 971, 991, 1193, 1931, 3119, 3779, 7793, 9311, 9377, 11939, 19937, 37199, 39119, 71993, 93719]
+  nsa_detectors_nr: 4000
+dataset:
+  filename: 'Alzheimer_reduced.csv'
+  normalize: Yes
+  shuffle: Yes
+  shuffle_seeds: [1123, 1187, 1223, 1367, 1511, 1747, 1753, 1907, 2287, 2417, 2677, 2903, 2963, 3307, 3313] #, 3637, 3733, 4013, 4409, 4457]
+  train_split_percentage: 0.2 # this is the percentage of self samples that will be used for test
+  # (be aware that during the training of the NSA will be only used 'self' samples, so this will be only a portion
+  # of that samples. i.e. if the dataset length is 120 and 100 samples are self, and you write 0.2 here, you will
+  # have 20 samples in the test set and 80 in the training set)
+NSA:
+  radius: [5.03]
+  allowed_intersection: .6  # from 0 to 1 (1.0 for classic NSA)
+  allowed_intersection_increment: .05
+  patience: 100
+VNSA:
+  self_radius: [0.03]
+  alpha: 0.025
+  non_self_area_percentage: 0.999
+others:
+  date_format: '%Y_%m_%d-%H.%M.%S'
+  input_folder: 'data'
+  output_folder: 'results'
+  show_plot: No
+  shutdown_on_end: No
+  verbose: No  # TODO: NotImplementedYet
