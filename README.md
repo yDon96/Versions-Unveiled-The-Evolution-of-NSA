@@ -9,9 +9,9 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Motivation](#usage)
-3. [Quick start](#usage)
-4. [Author](#contributing)
+2. [Motivation](#motivation)
+3. [Quick start](#quick-start)
+4. [Author](#author)
 5. [License](#license)
 ---
 ## Introduction
@@ -30,6 +30,12 @@ NSA is widely used in the field of anomaly detection but does, in fact, have som
 a lot of research has been done over the years to minimize or eliminate them.
 ---
 ## Quick Start
+
+Change the [configuration](config/config.yml).
+
+```commandline
+python main.py
+```
 
 ---
 ## Author
