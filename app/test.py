@@ -5,7 +5,7 @@ import numpy as np
 
 import pandas as pd
 
-from utils import test_null_hypothesis
+from app.utils.utils import test_null_hypothesis
 
 
 def get_results(folder):
