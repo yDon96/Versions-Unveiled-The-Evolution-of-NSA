@@ -28,6 +28,7 @@ See full report [here](doc/Alzheimer’s Disease Diagnosis with Negative Selecti
 
 NSA is widely used in the field of anomaly detection but does, in fact, have some major drawbacks and
 a lot of research has been done over the years to minimize or eliminate them.
+
 ---
 ## Quick Start
 
