@@ -41,7 +41,7 @@ python main.py
 ---
 ## Author
 
-![Kitten](https://github.com/yDon96.png){: width=150 height=100 style="border-radius:50%; padding:16px"} 
+![Kitten](https://images.weserv.nl/?url=https://github.com/yDon96.png?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d)
 
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
