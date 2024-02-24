@@ -64,8 +64,8 @@ python main.py
             </style>
             <div class="row">
                 <div class="col">
-                    <a href="https://github.com/yDon96" class="container">
-                        <img src="https://github.com/yDon96.png" width="60px;" class="image"/>
+                    <a href="https://github.com/yDon96">
+                        <img src="https://github.com/yDon96.png" width="60px;" class="image" style="border-radius:50%"/>
                     </a>
                     <br />
                     <sub>
