@@ -41,56 +41,10 @@ python main.py
 ---
 ## Author
 
-![Kitten](https://images.weserv.nl/?url=https://github.com/yDon96.png?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d)
-
-<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-            <style>
-              .row {
-                  display: flex; 
-                  gap: 3rem; 
-                  align-items: center;
-               }
-              .col {
-                  display: flex;
-                  flex-direction: column; 
-                  align-items: center;
-                }
-              .container {
-                  margin-bottom: -1rem;
-                }
-              .image {
-                  border-radius: 50%;
-              }
-            </style>
-            <div class="row">
-                <div class="col">
-                    <a href="https://github.com/yDon96">
-                        <img src="https://github.com/yDon96.png" width="60px;" class="image" style="border-radius:50%"/>
-                    </a>
-                    <br />
-                    <sub>
-                        <a href="https://github.com/yDon96" style="text-align: center">
-                            yDon96
-                        </a>
-                    </sub>
-                </div>
-                <div style="display: flex; flex-direction: column; align-items: center;">
-                    <a href="https://github.com/NickSenzaName" style="margin-bottom: -1rem">
-                        <img src="https://github.com/NickSenzaName.png" width="60px;" style="border-radius: 50%"/>
-                    </a>
-                    <br />
-                    <sub>
-                        <a href="https://github.com/NickSenzaName" style="text-align: center">
-                            NickSenzaName
-                        </a>
-                    </sub>
-                </div>
-            </div>
-        </div>
-	</foreignObject>
-</svg>
+<p float="left">
+[![yDon96](https://images.weserv.nl/?url=https://github.com/yDon96.png?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d)](https://github.com/yDon96)
+[![NickSenzaName](https://images.weserv.nl/?url=https://github.com/NickSenzaName.png?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d)](https://github.com/NickSenzaName)
+</p>
 
 
 ---
