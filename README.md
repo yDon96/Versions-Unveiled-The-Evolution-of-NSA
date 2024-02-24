@@ -45,13 +45,11 @@ python main.py
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
             <style>
-  
               .row {
                   display: flex; 
                   gap: 3rem; 
                   align-items: center;
                }
-              
               .col {
                   display: flex;
                   flex-direction: column; 
@@ -63,7 +61,6 @@ python main.py
               .image {
                   border-radius: 50%;
               }
-              
             </style>
             <div class="row">
                 <div class="col">
