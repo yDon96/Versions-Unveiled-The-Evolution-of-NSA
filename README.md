@@ -42,8 +42,7 @@ python main.py
 ## Author
 
 [![yDon96](https://images.weserv.nl/?url=https://github.com/yDon96.png?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d)](https://github.com/yDon96)
-
-[![NickSenzaName](https://images.weserv.nl/?url=https://github.com/NickSenzaName.png?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d)](https://github.com/NickSenzaName)
+[![NickSenzaName](https://images.weserv.nl/?url=//github.com/NickSenzaName.png?v=4&h=60&w=60&fit=cover&mask=circle&maxage=7d)](https://github.com/NickSenzaName)
 
 
 ---
