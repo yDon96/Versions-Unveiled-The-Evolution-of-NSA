@@ -40,10 +40,30 @@ python main.py
 
 ---
 ## Author
-<div style="display: flex; gap: 3rem; align-items: center;">
-    <div style="display: flex; flex-direction: column;  align-items: center;">
-        <a href="https://github.com/yDon96" style="margin-bottom: -1rem">
-            <img src="https://github.com/yDon96.png" width="60px;" style="border-radius: 50%"/>
+<div>
+  <style>
+      .row {
+          display: flex; 
+          gap: 3rem; 
+          align-items: center;
+        }
+      
+      .col {
+          display: flex;
+          flex-direction: column; 
+          align-items: center;
+        }
+      .container {
+          margin-bottom: -1rem;
+        }
+      .image {
+          border-radius: 50%;
+      }
+  </style>
+  <div class="row">
+    <div class="col">
+        <a href="https://github.com/yDon96" class="container">
+            <img src="https://github.com/yDon96.png" width="60px;" class="image"/>
         </a>
         <br />
         <sub>
@@ -64,6 +84,8 @@ python main.py
         </sub>
     </div>
 </div>
+</div>
+
 
 ---
 ## 📝 License
