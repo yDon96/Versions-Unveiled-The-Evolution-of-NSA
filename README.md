@@ -42,11 +42,12 @@ python main.py
 ## Author
 <div>
   <style>
+      
       .row {
           display: flex; 
           gap: 3rem; 
           align-items: center;
-        }
+       }
       
       .col {
           display: flex;
@@ -59,6 +60,7 @@ python main.py
       .image {
           border-radius: 50%;
       }
+      
   </style>
   <div class="row">
     <div class="col">
