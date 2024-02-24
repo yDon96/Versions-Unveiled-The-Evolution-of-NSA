@@ -40,53 +40,58 @@ python main.py
 
 ---
 ## Author
-<style>
+
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
   
-  .row {
-      display: flex; 
-      gap: 3rem; 
-      align-items: center;
-   }
-  
-  .col {
-      display: flex;
-      flex-direction: column; 
-      align-items: center;
-    }
-  .container {
-      margin-bottom: -1rem;
-    }
-  .image {
-      border-radius: 50%;
-  }
-  
-</style>
-<div>
-  <div class="row">
-    <div class="col">
-        <a href="https://github.com/yDon96" class="container">
-            <img src="https://github.com/yDon96.png" width="60px;" class="image"/>
-        </a>
-        <br />
-        <sub>
-            <a href="https://github.com/yDon96" style="text-align: center">
-                yDon96
-            </a>
-        </sub>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: center;">
-        <a href="https://github.com/NickSenzaName" style="margin-bottom: -1rem">
-            <img src="https://github.com/NickSenzaName.png" width="60px;" style="border-radius: 50%"/>
-        </a>
-        <br />
-        <sub>
-            <a href="https://github.com/NickSenzaName" style="text-align: center">
-                NickSenzaName
-            </a>
-        </sub>
-    </div>
-</div>
-</div>
+              .row {
+                  display: flex; 
+                  gap: 3rem; 
+                  align-items: center;
+               }
+              
+              .col {
+                  display: flex;
+                  flex-direction: column; 
+                  align-items: center;
+                }
+              .container {
+                  margin-bottom: -1rem;
+                }
+              .image {
+                  border-radius: 50%;
+              }
+              
+            </style>
+            <div class="row">
+                <div class="col">
+                    <a href="https://github.com/yDon96" class="container">
+                        <img src="https://github.com/yDon96.png" width="60px;" class="image"/>
+                    </a>
+                    <br />
+                    <sub>
+                        <a href="https://github.com/yDon96" style="text-align: center">
+                            yDon96
+                        </a>
+                    </sub>
+                </div>
+                <div style="display: flex; flex-direction: column; align-items: center;">
+                    <a href="https://github.com/NickSenzaName" style="margin-bottom: -1rem">
+                        <img src="https://github.com/NickSenzaName.png" width="60px;" style="border-radius: 50%"/>
+                    </a>
+                    <br />
+                    <sub>
+                        <a href="https://github.com/NickSenzaName" style="text-align: center">
+                            NickSenzaName
+                        </a>
+                    </sub>
+                </div>
+            </div>
+        </div>
+	</foreignObject>
+</svg>
 
 
 ---
