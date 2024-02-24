@@ -41,6 +41,8 @@ python main.py
 ---
 ## Author
 
+![Kitten](https://github.com/yDon96.png){: width=150 height=100 style="border-radius:50%; padding:16px"} 
+
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
