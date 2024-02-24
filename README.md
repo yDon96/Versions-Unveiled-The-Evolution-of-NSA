@@ -40,28 +40,28 @@ python main.py
 
 ---
 ## Author
+<style>
+  
+  .row {
+      display: flex; 
+      gap: 3rem; 
+      align-items: center;
+   }
+  
+  .col {
+      display: flex;
+      flex-direction: column; 
+      align-items: center;
+    }
+  .container {
+      margin-bottom: -1rem;
+    }
+  .image {
+      border-radius: 50%;
+  }
+  
+</style>
 <div>
-  <style>
-      
-      .row {
-          display: flex; 
-          gap: 3rem; 
-          align-items: center;
-       }
-      
-      .col {
-          display: flex;
-          flex-direction: column; 
-          align-items: center;
-        }
-      .container {
-          margin-bottom: -1rem;
-        }
-      .image {
-          border-radius: 50%;
-      }
-      
-  </style>
   <div class="row">
     <div class="col">
         <a href="https://github.com/yDon96" class="container">
